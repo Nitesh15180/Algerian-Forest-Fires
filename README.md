@@ -20,8 +20,8 @@ The app predicts fire risk using both a **machine learning model** and a **heuri
 The app loads a pre-trained machine learning model (`elasticcv_model.pkl`) and uses environmental data to predict the fire risk. Users input features such as temperature, humidity, wind speed, and rainfall, and the model calculates the likelihood of a fire.
 
 ## Libraries Used
-Numpy
-Pandas
-Matplotlib & Seaborn
-Scikit-learn
-Streamlit
+- Numpy
+- Pandas
+- Matplotlib & Seaborn
+- Scikit-learn
+- Streamlit
